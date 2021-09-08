@@ -1,2 +1,3 @@
 # goan
-Saya
+Nim
+Nama
