@@ -1,3 +1,9 @@
 # goan
 Nim
-Nama
+
+
+
+
+
+
+Tanggal
